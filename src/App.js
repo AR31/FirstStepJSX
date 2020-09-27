@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="container-div">
       <h1 className="title-red">Your name here</h1>
-      <br></br>
+      <br />
       <img src={myImg}></img>
-      <br></br>
+      <br />
       <img src="/imageInPublic.jpg"></img>
       <video controls className="video-block">
         <source src="myVideo.mp4" type="video/mp4"></source>
