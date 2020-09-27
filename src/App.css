@@ -12,7 +12,6 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -28,6 +27,13 @@
   color: #61dafb;
 }
 
+.video-block {
+  width: 320px;
+  height: 240px;
+}
+.container-div {
+  border: solid 1 black;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
