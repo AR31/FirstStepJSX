@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="container-div">
       <h1 className="title-red">Your name here</h1>
-      <br></br>
+      <br />
       <img src={myImg}></img>
       <br></br>
       <img src="/imageInPublic.jpg"></img>
